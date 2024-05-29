@@ -1,5 +1,4 @@
 # edgynode 
-<img src="man/figures/logo.png" align="right" height="348" width="300" /> 
 
 ## Statistical Assessment and Visualization of Gene Regulatory Networks
 
